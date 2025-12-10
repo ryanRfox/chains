@@ -10,8 +10,8 @@
   },
   "infoURL": "https://radiustech.xyz",
   "shortName": "radius",
-  "chainId": 723487,
-  "networkId": 723487,
+  "chainId": 723,
+  "networkId": 723,
   "icon": "radius",
   "explorers": [
     {
