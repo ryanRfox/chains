@@ -1,0 +1,31 @@
+{
+  "name": "Radius Tech Mainnet",
+  "chain": "RAD",
+  "rpc": ["https://rpc.radiustech.xyz"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "USD",
+    "symbol": "USD",
+    "decimals": 18
+  },
+  "infoURL": "https://radiustech.xyz",
+  "shortName": "radius",
+  "chainId": 723487,
+  "networkId": 723487,
+  "icon": "radius",
+  "explorers": [
+    {
+      "name": "Radius Explorer",
+      "url": "https://explorer.radiustech.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "features": [
+    {
+      "name": "EIP155"
+    },
+    {
+      "name": "EIP1559"
+    }
+  ]
+}
