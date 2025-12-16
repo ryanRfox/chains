@@ -9,10 +9,10 @@
     "decimals": 18
   },
   "infoURL": "https://radiustech.xyz",
-  "shortName": "radius",
+  "shortName": "radius-723",
   "chainId": 723,
   "networkId": 723,
-  "icon": "radius",
+  "icon": "radius-723",
   "explorers": [
     {
       "name": "Radius Explorer",

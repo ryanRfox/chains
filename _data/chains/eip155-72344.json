@@ -9,10 +9,10 @@
     "decimals": 18
   },
   "infoURL": "https://radiustech.xyz",
-  "shortName": "rad-test",
+  "shortName": "radius-testnet-72344",
   "chainId": 72344,
   "networkId": 72344,
-  "icon": "rad-test",
+  "icon": "radius-testnet-72344",
   "explorers": [
     {
       "name": "Radius Explorer",
