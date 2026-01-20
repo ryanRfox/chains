@@ -4,8 +4,8 @@
   "rpc": ["https://rpc.testnet.radiustech.xyz"],
   "faucets": ["https://faucet.radiustech.xyz/"],
   "nativeCurrency": {
-    "name": "USD",
-    "symbol": "USD",
+    "name": "Radius USD",
+    "symbol": "rUSD",
     "decimals": 18
   },
   "infoURL": "https://radiustech.xyz",
@@ -16,7 +16,7 @@
   "explorers": [
     {
       "name": "Radius Network Testnet Explorer",
-      "url": "https://explorer.testnet.radiustech.xyz",
+      "url": "https://network.testnet.radiustech.xyz",
       "standard": "none"
     }
   ],
